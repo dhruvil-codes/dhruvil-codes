@@ -1,13 +1,20 @@
 ## Hi, I'm Dhruvil 👋
 
-I'm an AI Engineer passionate about building AI-powered apps and contributing to open source projects that actually matter.
+I'm an AI Engineer based in India.
 
-🔭 Currently building SkinCure AI — a web app to detect skin diseases
+I build AI-powered apps and contribute to open source projects that actually matter.
 
-🌱 Leveling up my full-stack skills to ship and host AI apps end-to-end
+I like to build projects which actually solves the problems with the help of AI.
 
-👯 Open to collaborating on open source AI/ML projects
+My current project is [SkinCure AI](https://github.com/dhruvil-codes/skincure-ai) — a web app that helps detect skin diseases.
 
-⚡ I talk to AI more than most people talk to humans — also, Inter is my font of choice
+I'm leveling up my full-stack skills to ship and host AI apps end-to-end.
+
+If you want to collaborate on open source AI/ML projects, let's talk.
+
+**Fun Facts:**
+- I love cats
+- I talk to AI more than most people talk to humans
+- I prefer Substack articles over books.
 
 📫 [@bydhruvil](https://x.com/bydhruvil) on X · dhruvilmistry16@gmail.com
