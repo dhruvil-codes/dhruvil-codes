@@ -17,4 +17,4 @@ If you want to collaborate on open source AI/ML projects, let's talk.
 - I talk to AI more than most people talk to humans
 - I prefer Substack articles over books.
 
-📫 [@bydhruvil](https://x.com/bydhruvil) on X · dhruvilmistry16@gmail.com
+📫 [@bydhruvil](https://x.com/bydhruvil) on X · [Dhruvil Mistry](https://www.linkedin.com/in/dhruvilmistry16/) on LinkedIn
