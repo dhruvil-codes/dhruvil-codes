@@ -12,6 +12,17 @@ I'm leveling up my full-stack skills to ship and host AI apps end-to-end.
 
 If you want to collaborate on open source AI/ML projects, let's talk.
 
+---
+
+### Tools & Tech
+
+- Python, JavaScript, TypeScript
+- React, Next.js, Tailwind, Shadcn UI
+- FastAPI
+- Langchain, Langraph, OpenAI APIs
+
+---
+
 **Fun Facts:**
 - I love cats
 - I talk to AI more than most people talk to humans
