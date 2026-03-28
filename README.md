@@ -8,6 +8,6 @@ I'm an AI Engineer passionate about building AI-powered apps and contributing to
 
 👯 Open to collaborating on open source AI/ML projects
 
-⚡ I talk to AI more than most people talk to humans also, Inter is my favorite font.
+⚡ I talk to AI more than most people talk to humans — also, Inter is my font of choice
 
-📫 @bydhruvil on X · dhruvilmistry16@gmail.com
+📫 [@bydhruvil](https://x.com/bydhruvil) on X · dhruvilmistry16@gmail.com
