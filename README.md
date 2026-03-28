@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Dhruvil 👋
 
-<!--
-**dhruvil-codes/dhruvil-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer passionate about building AI-powered apps and contributing to open source projects that actually matter.
 
-Here are some ideas to get you started:
+🔭 Currently building SkinCure AI — a web app to detect skin diseases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Leveling up my full-stack skills to ship and host AI apps end-to-end
+
+👯 Open to collaborating on open source AI/ML projects
+
+⚡ I talk to AI more than most people talk to humans also, Inter is my favorite font.
+
+📫 @bydhruvil on X · dhruvilmistry16@gmail.com
