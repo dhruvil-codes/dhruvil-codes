@@ -1,68 +1,51 @@
-## Hi, I'm Dhruvil 👋
+# hey, i'm dhruvil 👋
 
-I'm an AI Engineer and builder from India.
+ai engineer. builder. shipping stuff that actually works.
 
-I build AI-powered products, agentic systems, and real-world applications that solve meaningful problems.
-
-Currently, I'm building **Saral AI** — a multilingual AI receptionist for Indian businesses that answers customer calls, handles inquiries, captures leads, and helps businesses never miss an opportunity.
-
-My interests lie at the intersection of:
-
-* Generative AI
-* LLM Applications
-* AI Agents
-* Voice AI
-* Automation
-* SaaS Products
-
-I enjoy turning ideas into working products and shipping fast. Most of my time is spent building with AI, experimenting with new models, and learning how to create software that delivers real business value.
-
-I'm also actively contributing to open-source projects and exploring the future of AI-powered products.
-
-If you're building something interesting in AI, open source, or startups, let's connect.
+i'm currently building **saral ai** — a multilingual voice ai receptionist for indian businesses.
+answers calls 24/7, speaks hindi/marathi/tamil, handles faqs, qualifies leads, sends summaries to owners.
+basically so small businesses never miss a customer again.
 
 ---
 
-### Building
+## what i build with
 
-🚀 **Saral AI** — Multilingual AI Receptionist for Indian Businesses
-
-* Answers calls 24/7
-* Speaks Hindi, Marathi, Tamil & more
-* Handles business FAQs
-* Captures and qualifies leads
-* Sends instant summaries to business owners
+- python, typescript, fastapi, next.js
+- langchain, langgraph, llama-index
+- openai, groq, sarvam ai
+- qdrant, supabase, postgresql
+- voice ai, rag systems, agentic workflows
 
 ---
 
-### Tools & Tech
+## things i've shipped
 
-* Python, TypeScript, JavaScript
-* FastAPI, Next.js, React
-* Tailwind CSS, Shadcn UI
-* Supabase, PostgreSQL
-* LangChain, LangGraph
-* OpenAI, Groq, Sarvam AI
-* AI Agents & RAG Systems
+- **saral ai** — multilingual voice ai receptionist for indian msmes
+- **minutz** — chrome extension for google meet. captures audio, outputs transcripts + action items in ~60s
+- **legalmind** — async rag pipeline over legal contracts. 50-page docs in under 30s
+- **clarity** — multi-provider llm chrome extension (openai, anthropic, gemini). zero backend, zero data custody
+- **skincure** — swinv2 classifier on 28k+ dermatology images. ~78% accuracy
 
 ---
 
-### Currently Exploring
+## what i'm exploring rn
 
-* Voice AI Systems
-* Agentic Workflows
-* LLM Infrastructure
-* AI Product Engineering
-* Startup Building
+- voice ai systems
+- agentic workflows
+- llm infra
+- building in public
 
 ---
 
-### Fun Facts
+## find me
 
-* I love cats 🐱
-* I talk to AI more than most people talk to humans
-* I enjoy building products in public
-* I prefer long-form writing and startup blogs over traditional books
+- x: [@bydhruvil](https://x.com/bydhruvil)
+- linkedin: [dhruvil mistry](https://linkedin.com/in/dhruvil-mistry)
+- portfolio: [bydhruvil.in](https://bydhruvil.in)
+- github: [dhruvil-codes](https://github.com/dhruvil-codes)
 
-📫 X: @bydhruvil
-💼 LinkedIn: Dhruvil Mistry
+---
+
+i love cats 🐱 and i talk to ai more than most people talk to humans.
+
+if you're building something interesting in ai, voice, or startups — let's connect.
